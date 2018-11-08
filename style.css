@@ -36,11 +36,7 @@ img {
 
   transform-style: preserve-3d;
 
-  transition: 2.5s transform;
-}
-
-.cube:hover {
-  transform: rotateY(270deg);
+  transition: 1.2s transform ease;
 }
 
 /* -------------------------------
